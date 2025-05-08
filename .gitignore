@@ -1,0 +1,6 @@
+# Ignore
+
+.notes
+notes/
+env/
+venv/
